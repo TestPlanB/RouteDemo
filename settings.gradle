@@ -1,0 +1,10 @@
+include ':secondmodule'
+include ':myapplication'
+include ':annotation'
+include ':RouteAPI'
+include ':moduletest'
+include ':compiler'
+include ':app:routercompiler'
+include ':app:routerapi'
+include ':app:moduletest'
+rootProject.name = "Test"
